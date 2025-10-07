@@ -30,4 +30,4 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Java-Basics-Programs.git
+   git clone https://github.com/alizafatima-264/Java-Basics-Programs.git
